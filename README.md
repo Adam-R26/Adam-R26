@@ -1,7 +1,7 @@
 # 💫 Hi, I'm Adam!
 <br>I code projects in my spare time, you might find some here!<br>
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 <br>Programming Languages <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
  
