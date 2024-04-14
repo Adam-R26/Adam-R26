@@ -28,4 +28,4 @@ If you're interested in NLP projects, you might want to check out the following
 - <a href="https://github.com/Adam-R26/ReddiKnowSparse-Infer-Traits-of-Reddit-Users-from-Their-Comments">Leveraging Traditonal NLP Techniques for Politcal Sentiment Classification</a>
 
 Interested in Computer Vision?
--  <a href="https://github.com/Adam-R26/ReddiKnowSparse-Infer-Traits-of-Reddit-Users-from-Their-Comments">Leveraging Large Pre-Trained CNNs for Instagram Topic Detection</a>
+-  <a href="https://github.com/Adam-R26/InstaAnalyze-Topic-Identification-and-Sentiment-Analysis-for-Improved-Engagement">Leveraging Large Pre-Trained CNNs for Instagram Topic Detection</a>
